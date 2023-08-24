@@ -6,7 +6,7 @@ local char = plr.Character
 char.HumanoidRootPart.CFrame = CFrame.new(-563.724304, 329.831696, 3.99024963, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 wait(1)
 loadstring(game:HttpGet(('https://pastebin.com/raw/U8uZ9G4J'),true))()
-wait(0.5)
+wait(2.5)
 local module = loadstring(game:HttpGet"https://raw.githubusercontent.com/LeoKholYt/roblox/main/lk_serverhop.lua")()
 
 module:Teleport(game.PlaceId)
